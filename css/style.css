@@ -7,7 +7,10 @@ body{
     height: 100vh;
     background-color: var(--primary-color);
     padding: 70px;
-    font-family: righteous,sans-serif ;
+    font-family: Righteous, sans-serif ;
+
+    display: flex;
+    flex-direction: column;
 }
 header{
     /* alinhar */
@@ -16,9 +19,92 @@ header{
 
     /* espacamento */
     gap: 16px;
-    background-color: aqua
+   /* background-color: aqua*/
+
+
 }
 header span{
     font-size: 32px;
+    color: var(--secundary-color);
+
+}
+main{
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+
+}
+.sombra {
+    position: absolute;
+    font-size: 500px;
+    color: #ffffff55;
+    z-index: -999;
+
+    /* centralizar algo que seja position absolute */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -90%);
+
+
+}
+
+
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 300px;
+    flex-grow: 1;
+    color: rgb(255, 255, 255);
+
+    /*text-shadow: 0px -100px 0px black;*/
+    
+
+}
+.container{
+    height: 154px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 64px;
+    align-items: flex-end;
+    
+}
+.descricao h2{
+    font-size: 64px;
+    color: var(--secundary-color);
+}
+.descricao p{
+    font-size: 20px;
+    color: var(--secundary-color);
+    width: 500px;
+}
+.container a{
+    width: 400px;
+    height: 100px;
+    background-color: var(--secundary-color);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 48px;
+    color: white;
+
+
+}
+
+.pikachu {
+    position: absolute;
+    /* centralizar algo que seja position absolute */
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 999;
+
+}
+
+footer{
+    text-align: center;
     color: var(--secundary-color);
 }
