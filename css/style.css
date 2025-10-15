@@ -3,3 +3,22 @@
     --primary-color:   #F5CF06;
     --secundary-color: #8E4106;
 }
+body{
+    height: 100vh;
+    background-color: var(--primary-color);
+    padding: 70px;
+    font-family: righteous,sans-serif ;
+}
+header{
+    /* alinhar */
+    display: flex;
+    align-items: center;
+
+    /* espacamento */
+    gap: 16px;
+    background-color: aqua
+}
+header span{
+    font-size: 32px;
+    color: var(--secundary-color);
+}
