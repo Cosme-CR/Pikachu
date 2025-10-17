@@ -40,12 +40,12 @@ pikachu-page/
 
 1. Clone o repositório
 ```bash
-git clone 
+git clone https://github.com/Cosme-CR/Pikachu
 ```
 
 2. Navegue até a pasta do projeto
 ```bash
-cd 
+cd Pikachu
 ```
 
 3. Abra o arquivo index.html em seu navegador
