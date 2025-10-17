@@ -8,6 +8,8 @@ A página apresenta um design inspirado no universo Pokémon, com foco no person
 
 
 ## 📂 Estrutura do Projeto
+
+```
 pikachu-page/
 ├── css/               # Arquivos de estilo
 │   ├── reset.css      # Reset de estilos para uniformizar o layout
@@ -16,6 +18,7 @@ pikachu-page/
 │   ├── pikachu (1).png
 │   └── poke-bola.png
 └── index.html         # Página principal
+```
 
 ## ✨ Funcionalidades
 
