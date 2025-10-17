@@ -1,4 +1,5 @@
 # ⚡ Pikachu Page - Projeto de Estudo SENAI
+![site](./imgs/image.png)
 
 ## 📋 Descrição
 
