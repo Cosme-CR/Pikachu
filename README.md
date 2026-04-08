@@ -1,14 +1,14 @@
-# ⚡ Pikachu Page - Projeto de Estudo SENAI
+#  Pikachu Page - Projeto de Estudo SENAI
 ![site](./imgs/image.png)
 
-## 📋 Descrição
+##  Descrição
 
 Este projeto foi desenvolvido durante o curso técnico em Desenvolvimento de Sistemas no SENAI, com o objetivo de praticar a criação de interfaces modernas e responsivas utilizando HTML5 e CSS3.
 
 A página apresenta um design inspirado no universo Pokémon, com foco no personagem Pikachu, demonstrando o uso de variáveis CSS, responsividade e posicionamento absoluto para efeitos visuais dinâmicos.
 
 
-## 📂 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 pikachu-page/
@@ -21,7 +21,7 @@ pikachu-page/
 └── index.html         # Página principal
 ```
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - **Design Temático:** Interface baseada no universo Pokémon
 - **Texto em Camadas:** Nome “Pikachu” com efeito de sombra de fundo
@@ -31,13 +31,13 @@ pikachu-page/
 - **Organização Visual:** Hierarquia clara entre título, descrição e imagem
 - **Centralização Precisa:** Uso de position: absolute e transform
 
-## 🛠️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - **HTML5:** Estrutura do conteúdo da página
 - **CSS3:** Estilização, responsividade e efeitos visuais
 - **Google Fonts (Roboto):** Tipografia moderna e legível
 
-## 🚀 Como Executar
+##  Como Executar
 
 1. Clone o repositório
 ```bash
@@ -54,7 +54,7 @@ cd Pikachu
 open index.html
 ```
 
-## 🌟 Melhorias Implementadas
+##  Melhorias Implementadas
 
 - Layout com variáveis CSS globais
 - Centralização absoluta de elementos
@@ -63,13 +63,10 @@ open index.html
 - Paleta de cores temática (amarelo e marrom)
 
 
-### 🙏 Agradecimentos
+###  Agradecimentos
 
 - Desenvolvido por Cosme Ribeiro
 - Curso: Desenvolvimento de Sistemas - SENAI
 - Imagens: Pokémon Company
 - Fonte: Google Fonts
 
----
-
-Feito com ⚡ e ❤️ durante o aprendizado no SENAI.
